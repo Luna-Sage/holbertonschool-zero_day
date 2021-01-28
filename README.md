@@ -1,1 +1,1 @@
-0x00 vagrant file being created and uname in Ubuntu ssh
+Creating hello ubuntu file and seearching uname in Ubuntu VM
