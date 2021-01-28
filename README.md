@@ -1,0 +1,1 @@
+0x00 vagrant file being created and uname in Ubuntu ssh
